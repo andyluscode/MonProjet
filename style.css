@@ -12,6 +12,7 @@ body{
 }
 .lusamba{
     margin-top: -20px;
+    opacity: 0.6;
 }
 
 .centre{
@@ -40,7 +41,33 @@ a:hover{
     padding: 5px;
 }
 
-li{
-    margin-top: 50px;
+.mp{
     list-style: none;
+    margin-top: 35px;
+}
+
+.pcentre{
+    display: flex;
+}
+img{
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 60px;
+    border-radius: 19999px;
+}
+.ecrit{
+  box-sizing: border-box;
+  box-shadow: 6px 6px 5px rgba(0,0,0,0.1);
+ padding: 20px;
+ height: 500px;
+ border-radius: 20px;
+
+}
+hr{
+    border: 1px solid #10B981;
+}
+.lusamb{
+    list-style: none;
+    margin-top: 15px;
+    opacity: 0.6;
 }
